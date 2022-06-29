@@ -27,5 +27,5 @@
 
 <hr>
 
-### 🎞 Video Qo'llanma:
-<code><a href='https://youtu.be/fpKODiSHL24'>https://youtu.be/fpKODiSHL24</a></code>
+### 📔 Qo'llanma:
+<code><a href='https://telegra.ph/Telegram-Magic-Userbot-06-09'>https://telegra.ph/Telegram-Magic-Userbot-06-09</a></code>
